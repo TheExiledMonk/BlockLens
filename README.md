@@ -1,4 +1,4 @@
-BlockLens.com
+BlockLens
 =========
 
 This allows for searching information contained in Bitcoin and other digital currency blockchains using familiar web-search expressions and simple well-defined, server configurations
